@@ -9,3 +9,4 @@ pyproj==3.2.1
 ipython
 matplotlib
 seaborn
+plotly
