@@ -3,4 +3,6 @@ openpyxl==2.6.2
 xlrd==1.2.0
 ipympl==0.9.1
 kaleido
-viola==0.3.8
+pyproj==3.3.1
+voila=0.3.8
+plotly==5.9.0
