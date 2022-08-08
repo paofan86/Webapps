@@ -3,7 +3,6 @@ openpyxl==2.6.2
 xlrd==1.2.0
 ipympl==0.9.1
 kaleido
-pyproj
 absl-py==1.2.0
 agate==1.6.3
 aiohttp==3.8.1
@@ -159,7 +158,7 @@ pymssql==2.2.5
 PyMySQL==1.0.2
 pyOpenSSL==22.0.0
 pyparsing==3.0.9
-pyproj==3.3.1
+pyproj==3.2.1
 pyrsistent==0.18.1
 python-dateutil==2.8.2
 python-jsonrpc-server==0.4.0
