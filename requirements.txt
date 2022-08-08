@@ -4,7 +4,6 @@ xlrd==1.2.0
 ipympl==0.9.1
 kaleido
 pyproj==3.2.1
-voila==0.3.8
 absl-py==1.2.0
 agate==1.6.3
 aiohttp==3.8.1
