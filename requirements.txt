@@ -5,11 +5,7 @@ ipympl==0.9.1
 kaleido
 pandas
 numpy
-pyproj
-base64
+pyproj==3.2.1
 ipython
 matplotlib
 seaborn
-io
-csv
-os
