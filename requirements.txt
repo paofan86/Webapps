@@ -12,4 +12,3 @@ ipython==7.33.0
 matplotlib==3.5.3
 seaborn==0.11.2
 plotly==5.10.0
-jupyter_contrib_nbextensions
